@@ -1,0 +1,132 @@
+# 🎤 Script de Présentation — Hackathon
+
+## Axe C : Analyse approfondie des disparités de genre
+
+### Konate Souleymane
+
+---
+
+# 🟦 Slide 1 — Introduction
+
+Bonjour à tous.
+
+Je vais vous présenter notre projet portant sur l’analyse approfondie des disparités de genre sur le marché du travail en Côte d’Ivoire.
+
+L’objectif principal de cette étude est de comprendre comment le genre, l’âge et le niveau d’éducation influencent l’accès à l’emploi chez les jeunes âgés de 15 à 35 ans.
+
+---
+
+# 🟦 Slide 2 — Question de recherche
+
+Aujourd’hui, malgré l’amélioration de l’accès à l’éducation, les inégalités entre hommes et femmes restent importantes sur le marché du travail.
+
+Nous avons donc cherché à répondre à la question suivante :
+
+> Comment le genre, l’âge et le niveau d’éducation influencent-ils les disparités d’accès à l’emploi chez les jeunes de 15 à 35 ans en Côte d’Ivoire ?
+
+---
+
+# 🟦 Slide 3 — Données & Prétraitement
+
+Pour cette étude, nous avons utilisé plusieurs datasets liés :
+
+* au chômage,
+* à l’inactivité,
+* au niveau d’éducation,
+* et aux données démographiques.
+
+Nous avons ensuite effectué plusieurs étapes de préparation des données :
+
+* filtrage sur la Côte d’Ivoire,
+* sélection de la tranche d’âge 15–35 ans,
+* nettoyage des colonnes,
+* traitement des types de données,
+* et création d’un dataset propre pour l’analyse.
+
+---
+
+# 🟦 Slide 4 — Méthodologie
+
+Notre approche repose principalement sur une analyse exploratoire des données.
+
+Nous avons utilisé :
+
+* des analyses descriptives,
+* des comparaisons de moyennes,
+* des corrélations,
+* ainsi que plusieurs visualisations statistiques.
+
+Les principaux outils utilisés sont Python, Pandas, Matplotlib et Seaborn.
+
+---
+
+# 🟦 Slide 5 — Résultat clé 1
+
+Le premier résultat important montre que les femmes sont globalement plus touchées par le chômage que les hommes.
+
+Le graphique met clairement en évidence un écart de chômage persistant entre les deux groupes.
+
+Cela révèle une inégalité importante sur le marché du travail.
+
+---
+
+# 🟦 Slide 6 — Résultat clé 2
+
+Nous observons également que les jeunes âgés de 15 à 35 ans représentent le groupe le plus vulnérable.
+
+Cette situation est particulièrement marquée chez les jeunes femmes.
+
+L’écart entre hommes et femmes reste visible dans le temps.
+
+---
+
+# 🟦 Slide 7 — Résultat clé 3
+
+L’un des résultats les plus importants de cette étude concerne l’impact du niveau d’éducation.
+
+Contrairement aux attentes, les femmes diplômées du supérieur présentent des taux de chômage beaucoup plus élevés que les hommes ayant le même niveau d’éducation.
+
+Le niveau tertiaire présente le plus grand écart de genre.
+
+Cela montre que l’éducation seule ne garantit pas une insertion professionnelle équitable.
+
+---
+
+# 🟦 Slide 8 — Résultat clé 4
+
+Nous avons également étudié la relation entre chômage et inactivité.
+
+Les résultats montrent une corrélation positive modérée.
+
+Cela signifie qu’une hausse du chômage peut être accompagnée d’une augmentation de l’inactivité.
+
+Autrement dit, certaines personnes quittent progressivement le marché du travail.
+
+---
+
+# 🟦 Slide 9 — Enseignements & Implications
+
+Cette étude met en évidence plusieurs problèmes importants :
+
+* des inégalités persistantes entre hommes et femmes,
+* des difficultés d’insertion des jeunes,
+* un déséquilibre entre formation et emploi,
+* et des barrières plus fortes pour les femmes diplômées.
+
+Ces résultats montrent la nécessité de mettre en place des politiques publiques ciblées.
+
+---
+
+# 🟦 Slide 10 — Conclusion & Recommandations
+
+Pour conclure, cette étude montre que les disparités de genre restent très présentes sur le marché du travail ivoirien.
+
+Les jeunes femmes âgées de 15 à 35 ans, particulièrement les plus diplômées, apparaissent comme l’un des groupes les plus exposés au chômage.
+
+Nous recommandons donc :
+
+* le renforcement des politiques d’insertion professionnelle,
+* le développement de programmes spécifiques pour les jeunes femmes diplômées,
+* et une meilleure adaptation des formations aux besoins du marché du travail.
+
+
